@@ -1,0 +1,1137 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cupids master-piece, or, The free-school of witty and delightful complements being the art of love refined, and augmented with divers new, pleasant, and delightful comments and discourses of love ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35436</idno>
+            <idno type="STC">Wing C7605</idno>
+            <idno type="STC">ESTC R19646</idno>
+            <idno type="EEBO-CITATION">12399934</idno>
+            <idno type="OCLC">ocm 12399934</idno>
+            <idno type="VID">61248</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35436)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61248)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 275:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Cupids master-piece, or, The free-school of witty and delightful complements being the art of love refined, and augmented with divers new, pleasant, and delightful comments and discourses of love ...</title>
+               </titleStmt>
+               <extent>[24] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Andrews ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1656?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Love.</term>
+               <term>Love poetry, English.</term>
+               <term>English poetry --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:61248:1"/>
+            <p>
+               <figure>
+                  <figDesc>portraits</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:61248:1" rendition="simple:additions"/>
+            <p>CUPIDS MASTER-PIECE <hi>OR,</hi> The Free-School of Witty and Delightful Complements.</p>
+            <p>BEING, The Art of Love Refined: and augmen<gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> with divers new, pleaſant, and delighful com<gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ments and diſcourſes of Love. With ſundry p<gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſant and amorous Songs and Sonnets. As alſo <gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſies for Rings, Handkerchiefs, Gloves, and o<gap reason="illegible" resp="#MURP" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> things, for benefit and delight of young Men <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Maids. With divers other pretty fancies and <gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>taſies, full of Delight and variety of Wit.</p>
+            <figure/>
+            <q>
+               <l>When Hearts and Hands united are,</l>
+               <l>What joy with Love then can compare.</l>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>John Andrews,</hi> at the White <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> at the Upper end of the Old-Baily.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:61248:2"/>
+            <pb facs="tcp:61248:2"/>
+            <head>Cupids Maſter-Piece.</head>
+            <div type="poem">
+               <head>A brief Deſcription of true Love.</head>
+               <l>
+                  <seg rend="decorInit">T</seg>Rue Love is a pretious treaſure,</l>
+               <l>Rich delight, unvalued pleaſure;</l>
+               <l>Mens harts like to a Maze intwining</l>
+               <l>Two firm minds in one combining;</l>
+               <l>Foe to faithleſs vowes perfideous,</l>
+               <l>True Love is a knot Religious,</l>
+               <l>Dead to the ſins that flaming riſe,</l>
+               <l>Through beauties ſoul ſeducing eyes.</l>
+               <l>Deaf to gold-inchanting Witches,</l>
+               <l>Loves for Vertue, not for riches.</l>
+               <l>Such is true Loves boundleſs meaſure;</l>
+               <l>True Love is a pretious treaſure.</l>
+               <l>This is Love, and worth commending,</l>
+               <l>Still beginning, never ending.</l>
+               <l>Like a wily Net inſnaring,</l>
+               <l>Like a Round ſhuts up all ſquaring;</l>
+               <l>In and out, whoſe every Angle,</l>
+               <l>More and more doth ſtill intangle.</l>
+               <l>Keeps a meaſure ſtill in moving,</l>
+               <l>And is never Light, but loving.</l>
+               <l>Twining armes, exchanging kiſſes,</l>
+               <l>Each pertaking others bliſſes.</l>
+               <l>Laughing, weeping, ſtill together,</l>
+               <l>Bliſs in one, is mirth in either.</l>
+               <l>Never breaking, ever bending,</l>
+               <l>This is Love; and worth commending,</l>
+            </div>
+            <div type="instructions">
+               <pb facs="tcp:61248:3"/>
+               <head>
+                  <hi>Inſtructions for Lovers:</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eaching them, how to demean themſelves to<g ref="char:EOLhyphen"/>wards their Sweet-hearts.</head>
+               <p>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>Ou muſt not accoſt them with a ſhrug, as if you were lowſie: With, your Ladie, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et Ladie, or moſt ſuper-excellent Ladie: <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>her muſt you let your words come rumb<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> forth, uſhered in with a good full mouth'd, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, as I love you: But you muſt ſpeak the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>-coming language of Love, I do not mean <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e ſtrange Pedantick phraſes, uſed by ſome <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ants who (aim at wit but make themſelves <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k aſſes by it) praiſe their Miſtreſſes by the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, Moon, or Stars; whileſt the poor Girles <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gine, they mean the ſignes their Mercers Perfumers live at. But you muſt in fine <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> words, deliver your true affection: praiſe <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Miſtreſs Eies, her Lip, her Chin, her <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, her Neck, her Face, her Hand, her <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t, her Leg, her Waſte, her every thing; <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> leave your Lillies and your Roſes, for your <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntrie Froes to make Noſegaies with.</p>
+               <list>
+                  <item>
+                     <hi>Thoughts c Valued may B.</hi>
+                  </item>
+                  <item>
+                     <hi>Searching c Love may B.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="dialogue">
+               <pb facs="tcp:61248:3"/>
+               <head>A merry ſportive and Delightful Diſcourſe, be<g ref="char:EOLhyphen"/>tween a young Gallant, and a curious conceited Lady.</head>
+               <sp>
+                  <speaker>Gent.</speaker>
+                  <p>LAdie, what think you of a handſome man now?</p>
+               </sp>
+               <sp>
+                  <speaker>Lady.</speaker>
+                  <p>And a wholeſome too, Sir.</p>
+               </sp>
+               <sp>
+                  <speaker>Gent.</speaker>
+                  <p>That's as you make your bargain; a handſome, wholſome man then, and a kinde man, to chéer up your heart, and to lie cloſe to you, to kéep you warm; and get two boyes at a birth.</p>
+               </sp>
+               <sp>
+                  <speaker>Lady.</speaker>
+                  <p>Two at a birth, that's nothing Sir, I have known a Cobler, a poor thin Cobler, out of mouldy chéeſe, brown bread, and turnups, do as much as that: Me thinks a Gentleman ſhould ſcorn to have a poor Mechanick Cobler out-do him.</p>
+               </sp>
+               <sp>
+                  <speaker>Gent.</speaker>
+                  <p>What, then you would have me get two dozen at a birth, like Buttons.</p>
+               </sp>
+               <sp>
+                  <speaker>Lady.</speaker>
+                  <p>You do well to brag Sir, but if you perform this at your marriage, then I will ſay you are a man indeed.</p>
+               </sp>
+               <sp>
+                  <speaker>Gent.</speaker>
+                  <p>You are a merry Gentlewoman, and may make a good wife.</p>
+               </sp>
+               <sp>
+                  <speaker>Lady.</speaker>
+                  <p>Not for you Sir, for then I may chance to get nothing: in what a ſtate am I then Sir?</p>
+               </sp>
+               <sp>
+                  <pb facs="tcp:61248:4"/>
+                  <speaker>Gent.</speaker>
+                  <p>But for all this, I know you love to hear of a good husband.</p>
+               </sp>
+               <sp>
+                  <speaker>Lad.</speaker>
+                  <p>You ſay true Sir, for by my troth I h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ve heard of none this ten years<g ref="char:punc">▪</g> they are ſo rare, that there are a great many longing women upon their knees, to pray for the dropping down of good husbands from heaven, becauſe there's none upon earth.</p>
+               </sp>
+               <sp>
+                  <speaker>Gent.</speaker>
+                  <p>But tel me Lady, can you love a man?</p>
+               </sp>
+               <sp>
+                  <speaker>Lad.</speaker>
+                  <p>Yes, if the man be lovely, honeſt, and modeſt.</p>
+               </sp>
+               <sp>
+                  <speaker>Gent.</speaker>
+                  <p>Then I am the man muſt make you a wife.</p>
+               </sp>
+               <sp>
+                  <speaker>Lad.</speaker>
+                  <p>You make me a wife, no Sir no.</p>
+               </sp>
+               <sp>
+                  <speaker>Gent.</speaker>
+                  <p>Ay a wife, a wife I ſay; you need not be aſhamed on it, for its the beſt calling a wo<g ref="char:EOLhyphen"/>man can come to.</p>
+               </sp>
+               <sp>
+                  <speaker>Lad.</speaker>
+                  <p>A grant it Sir, but I mean not to be your wife.</p>
+               </sp>
+               <sp>
+                  <speaker>Gent.</speaker>
+                  <p>Not mine, I beleive it will be the beſt bargain thou wilt ever make in thy life.</p>
+               </sp>
+               <sp>
+                  <speaker>Lad.</speaker>
+                  <p>Sir, I do beleive you look after wealth, and I mean to have one that will love and re<g ref="char:EOLhyphen"/>ſpect me for my vertues.</p>
+               </sp>
+               <sp>
+                  <speaker>Gent.</speaker>
+                  <p>Wealth, yes by my troth, I muſt have lands, and Lordſhips too Lady.</p>
+               </sp>
+               <sp>
+                  <speaker>Lad.</speaker>
+                  <p>Cry ye mercie Sir, I miſtook you all this while, did not you ſay it was for love.</p>
+               </sp>
+               <sp>
+                  <speaker>Gent.</speaker>
+                  <p>True, but there's two words to a bar<g ref="char:EOLhyphen"/>gain
+<pb facs="tcp:61248:4"/> all the world over; and if love be one, I am ſure money is the other, elſe its no bargain; pardon me Lady, I muſt dine as well as ſup.</p>
+               </sp>
+               <sp>
+                  <speaker>Lad.</speaker>
+                  <p>Then Sir you may trie your fortune, for I am reſolved never to be your wife; and ſo farewel.</p>
+               </sp>
+            </div>
+            <div type="song">
+               <head>A Song for Maids.</head>
+               <l>MAids they are grown ſo coy of late,</l>
+               <l>Forſooth they will not marry,</l>
+               <l>Though they be in their teens &amp; paſt,</l>
+               <l>They ſay they yet can tarry:</l>
+               <l>But if they knew how ſweet a thing,</l>
+               <l>It were in youth to marry,</l>
+               <l>They would ſell their Petticoats, Smocks and all,</l>
+               <l>Ere they ſo long would tarry.</l>
+               <l>The Laſs that is moſt coy of all,</l>
+               <l>I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſhe had time and leiſure,</l>
+               <l>Would lay by al<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> he<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſeveral thoughts,</l>
+               <l>And turn to love and pleaſure.</l>
+               <l>Winter nights are long you know,</l>
+               <l>And bitter cold the wea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>her,</l>
+               <l>Then who is ſo fond to lie alone,</l>
+               <l>When two may lye together.</l>
+            </div>
+            <div type="dialogue">
+               <head>A merry complemental woing between two jeering Lovers.</head>
+               <sp>
+                  <speaker>Man.</speaker>
+                  <p>FAireſt of all faires, will you eat a piece of Ginger-bread?</p>
+               </sp>
+               <sp>
+                  <speaker>Maid.</speaker>
+                  <p>You might have more manne<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s, or at
+<pb facs="tcp:61248:5"/> leaſt more civilitie, then to ſcoff at her that ne<g ref="char:EOLhyphen"/>ver injured you.</p>
+               </sp>
+               <sp>
+                  <speaker>Man.</speaker>
+                  <p>Scoff, nay, indeed I love you, I vow I burn in love like ſome peny Fagot.</p>
+               </sp>
+               <sp>
+                  <speaker>Maid.</speaker>
+                  <p>St. <hi>Winitrid</hi> forbid it man may I be<g ref="char:EOLhyphen"/>leive it?</p>
+               </sp>
+               <sp>
+                  <speaker>Man.</speaker>
+                  <p>Ay, and though I ſay it that ſhould not, I am affected towards you ſtrangely, there's ſome thing like thy ſelf comes every night to my beds ſide.</p>
+               </sp>
+               <sp>
+                  <speaker>Maid.</speaker>
+                  <p>And to me every morning, a voice ut<g ref="char:EOLhyphen"/>ters theſe words; <hi>Matrimony, Matrimony.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Man.</speaker>
+                  <p>Now do I ſhake all over, and doubt its ſome ſpirit that would join us.</p>
+               </sp>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>Goodly great ones, may I beleive this alſo.</p>
+               </sp>
+               <sp>
+                  <speaker>Man.</speaker>
+                  <p>What not beleive, Ladie I am whol<g ref="char:EOLhyphen"/>ly and ſolely yours, yea, more then this; your ſervants, ſervant.</p>
+               </sp>
+               <sp>
+                  <speaker>Maid.</speaker>
+                  <p>Now you contradict your ſelf Sir, how can you be wholly mine, and yet my ſervants ſervant?</p>
+               </sp>
+               <sp>
+                  <speaker>Man.</speaker>
+                  <p>I do but complement in this Ladie: But if thou canſt love me, I can love thee; law thee now, I am rich.</p>
+               </sp>
+               <sp>
+                  <speaker>Mai.</speaker>
+                  <p>Sir, I look not after riches but the perſon, <hi>I</hi> muſt have one that can guide me, for <hi>I</hi> am foo<g ref="char:EOLhyphen"/>liſh yet.</p>
+               </sp>
+               <sp>
+                  <speaker>Man.</speaker>
+                  <p>Now ſée the luck of it Ladie, <hi>I</hi> am ſo too, but doubt not this noddle ſhall perform all I warrant. <hi>I</hi> am rich.</p>
+               </sp>
+               <sp>
+                  <pb facs="tcp:61248:5"/>
+                  <speaker>Maid.</speaker>
+                  <p>But riches create no love, by my vir<g ref="char:EOLhyphen"/>ginitie, <hi>I</hi> fear you will flinch.</p>
+               </sp>
+               <sp>
+                  <speaker>Man.</speaker>
+                  <p>By my virginitie, which is as good as yours, I am ſure by my virginitie, if we men have any ſuch thing as we have, I wil not flinch.</p>
+               </sp>
+               <sp>
+                  <speaker>Maid.</speaker>
+                  <p>Then for the tim<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> to come, you muſt not ſo much as caſt a ſhée <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> eye after any wo<g ref="char:EOLhyphen"/>man but my ſelf.</p>
+               </sp>
+               <sp>
+                  <speaker>Man.</speaker>
+                  <p>If I do at any time, then may I loſe one of mine own eies, but ile keep the other however.</p>
+               </sp>
+               <sp>
+                  <speaker>Maid.</speaker>
+                  <p>Well ſir, ile take your word.</p>
+               </sp>
+            </div>
+            <div type="sonnet">
+               <head>A Sonnet in praiſe and diſpraiſe of Love.</head>
+               <l>NOw what is Love, I will thee tell,</l>
+               <l>It is the Fountain and the Well,</l>
+               <l>Where pleaſure and repentance dwell;</l>
+               <l>And it is like a Paſſing Bell,</l>
+               <l>That towls all in to Heaven or Hell:</l>
+               <l>This is Love, and this is Love, I here thee tell.</l>
+               <l>Now what is Love, I will thee ſhow,</l>
+               <l>A thing that creeps where't cannot go,</l>
+               <l>A prize that paſſeth too and fro,</l>
+               <l>A thing for me, a thing for mo;</l>
+               <l>And he that tries ſhall finde it ſo:</l>
+               <l>This is love, and this is love, ſweet friend I tro.</l>
+            </div>
+            <div type="dialogue">
+               <head>A merry croſs woing, betweeen Tom the Tailor, and Kate of the Kitchin.</head>
+               <sp>
+                  <speaker>Tom.</speaker>
+                  <p>GOod morrow <hi>Kate,</hi> for that <hi>I</hi> hear is your name.</p>
+               </sp>
+               <sp>
+                  <pb facs="tcp:61248:6"/>
+                  <speaker>Kate.</speaker>
+                  <p>Well have you heard, but ſomething hard of hearing, they call me <hi>Katherine</hi> that talk of me.</p>
+               </sp>
+               <sp>
+                  <speaker>Tail.</speaker>
+                  <p>You lie in faith, for you are called plain <hi>Kate,</hi> and bonny <hi>Kate,</hi> and ſometimes <hi>Kate</hi> the curſt; but <hi>Kate</hi> take this of me for thy comfort, I am moved to woe thee for my wife.</p>
+               </sp>
+               <sp>
+                  <speaker>Kate.</speaker>
+                  <p>Moved, in good time, let him that mo<g ref="char:EOLhyphen"/>ved you hither remove you hence, I thought you were a moveable.</p>
+               </sp>
+               <sp>
+                  <speaker>Tail.</speaker>
+                  <p>Why what's a moveable?</p>
+               </sp>
+               <sp>
+                  <speaker>Kate.</speaker>
+                  <p>A <hi>Joint-ſtool.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Tail.</speaker>
+                  <p>Right, thou haſt hit it; come ſit on me then.</p>
+               </sp>
+               <sp>
+                  <speaker>Kate.</speaker>
+                  <p>Sit on you I that I will, Aſſes were made to bear.</p>
+               </sp>
+               <sp>
+                  <speaker>Tail.</speaker>
+                  <p>Come, come, what wil you be angry now, you waſp?</p>
+               </sp>
+               <sp>
+                  <speaker>Kate.</speaker>
+                  <p>If I be a waſp, then thou hadſt beſt beware of my ſting, or elſe pluck it out.</p>
+               </sp>
+               <sp>
+                  <speaker>Tail.</speaker>
+                  <p>What with my tongue in your tail; not ſo <hi>Kate,</hi> I am a Gentleman.</p>
+               </sp>
+               <sp>
+                  <speaker>Kate.</speaker>
+                  <p>A Gentleman, what's your Coat of Arms pray you, a Cocks-comb?</p>
+               </sp>
+               <sp>
+                  <speaker>Tail.</speaker>
+                  <p>No a come-leſs Cock, ſo <hi>Kate</hi> will be my Hen.</p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <hi>K<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>te.</hi>
+                  </speaker>
+                  <p>No Hen of yours Sir, you look ſo like a Cravven.</p>
+               </sp>
+               <sp>
+                  <speaker>Tail.</speaker>
+                  <p>Nay but <hi>Kate,</hi> you muſt not look ſo ſowr.</p>
+               </sp>
+               <sp>
+                  <pb facs="tcp:61248:6"/>
+                  <speaker>Kate.</speaker>
+                  <p>Sowr, its my faſhion when I ſee a Crab, and ſo farewel.</p>
+                  <q>
+                     <l>Fairer then <hi>Diana,</hi> chaſter then <hi>Suſanna,</hi>
+                     </l>
+                     <l>O let me thy favour merit.</l>
+                     <l>When as the Fountains, overflow the Mountains,</l>
+                     <l>Then ſhalt thou my love inherit.</l>
+                  </q>
+               </sp>
+            </div>
+            <div type="greeting">
+               <head>The greeting of a Lover to his Deareſt, after a long abſence.</head>
+               <p>WElcome, my beſt beloved welcom, your ſight is life's reſtorative to me, you are more welcome to me my deareſt, then day to the world or reſt to the wearied, or gold to the moſt covetous Miſer in the world; ſuch is the joy I finde in your happy company: So that this day ſeems to be a day of Iubilée unto me.</p>
+            </div>
+            <div type="poem">
+               <head>A brief Deſcription of Women.</head>
+               <l>ALl you that Women love,</l>
+               <l>And like the amorous trade,</l>
+               <l>Come learn of me; what Women be,</l>
+               <l>And whereof they are made.</l>
+               <l>Their hands are made of Raſh,</l>
+               <l>Their mindes are made of Sey,</l>
+               <l>Their love is like Silk changeable,</l>
+               <l>It laſteth but a day:</l>
+               <l>Their glory ſprings from Sattin,</l>
+               <l>Their vanity from Feather,</l>
+               <l>Their beauty is Stand farther off,</l>
+               <l>Their conſcience is of Leather.</l>
+               <l>Of Fuſtian's their diſcourſe,</l>
+               <pb facs="tcp:61248:7"/>
+               <l>But Canvas fits them beſt;</l>
+               <l>Perpetuana is their folly,</l>
+               <l>Their earneſt is but jeſt.</l>
+               <l>Their Life is Love and Idleneſs,</l>
+               <l>Their doing is their pleaſure,</l>
+               <l>They lawleſs are, yet all their ware,</l>
+               <l>They buy by ſtanding meaſure.</l>
+               <l>Their Fore-parts are of Rue,</l>
+               <l>Their hinder parts of Dockes,</l>
+               <l>Of hardeſt Braſile are their Hearts,</l>
+               <l>Their Heads are made of Boxe.</l>
+               <l>Or if in plainer termes,</l>
+               <l>Withall you would be dealt,</l>
+               <l>Of Beaver are their tender Thighes,</l>
+               <l>Their Skins are made of Felt.</l>
+            </div>
+            <div type="dialogue">
+               <head>A pleaſant Diſcourſe between a Bridegroom and a Bride, on their Bridal night.</head>
+               <sp>
+                  <speaker>Bridegr.</speaker>
+                  <p>WIl you not come to bed my dear<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> why do you ſo delay? come let me help you.</p>
+               </sp>
+               <sp>
+                  <speaker>Bride.</speaker>
+                  <p>To bed ſwéet-heart, why are you ſo ſleepie?</p>
+               </sp>
+               <sp>
+                  <speaker>Bridegr.</speaker>
+                  <p>No, but I ſhall be worſe, if you loo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſad and melancholly; come prithee my dear l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> to bed: why doeſt thou bluſh? let me undreſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> thee, be not coy, but ſmile.</p>
+               </sp>
+               <sp>
+                  <speaker>Bride.</speaker>
+                  <p>Alas I feel my ſelf not well my love.</p>
+               </sp>
+               <sp>
+                  <speaker>Bridegr.</speaker>
+                  <p>Its onely baſhfulneſs my dear, il<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <pb facs="tcp:61248:7"/> make you wel, there's no ſuch phiſick as you<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> husbands warm arms.</p>
+               </sp>
+               <sp>
+                  <speaker>Bride.</speaker>
+                  <p>Be not ſo haſtie my deareſt, we ſtea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> not our content, there's time enough.</p>
+               </sp>
+               <sp>
+                  <speaker>Brideg.</speaker>
+                  <p>Do you then already ceaſe to love me<g ref="char:punc">▪</g>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Bride.</speaker>
+                  <p>No think not ſo, for I do love the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> dearly.</p>
+               </sp>
+               <sp>
+                  <speaker>Bridegr.</speaker>
+                  <p>To bed then I ſhall give better cre<g ref="char:EOLunhyphen"/>dit to thee be not ſo cold a lover.</p>
+               </sp>
+               <sp>
+                  <speaker>Bride.</speaker>
+                  <p>My paſsion's now over, and now m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> deareſt I haſt to thy embraces.</p>
+               </sp>
+               <sp>
+                  <speaker>Bridegr.</speaker>
+                  <p>Welcom my comfort and delight and thus I fold my arms about thee.</p>
+               </sp>
+               <sp>
+                  <speaker>Bride.</speaker>
+                  <p>And thus about thee my dear bliſs, I <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>twine like the female I vie.</p>
+               </sp>
+               <sp>
+                  <speaker>Bridegr,</speaker>
+                  <p>Come then let me kiſs thee, let m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> kiſs again and again, and multiply them to a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> infinite increaſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Bride.</speaker>
+                  <p>Spare not, for they are thy own, dea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> heart.</p>
+               </sp>
+            </div>
+            <div type="resolution">
+               <head>The gallant Sea-mans reſolution concerning Marriage.</head>
+               <p>
+                  <hi>O</hi> What ſtrange paſsions came on board m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that I ſhould marry! was I drunk? Wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to ſay truth what can I do at home now? what horrible thing would it be to have horns brough<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> me to Sea, to look as if the Devil were i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Ship, and all the great Tempeſts woul<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> be thought to be of my raiſing, and ſhould <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb facs="tcp:61248:8"/> the general courſe of all Merchants: and yet perhaps they are as deep in as my ſelf, that's my comfort. O that a Seaman ſhould live to be married, what need I to have been ſhackled thus with a wife, and be at charges to kéep her for other mens diets, well if I were once rid of this, I would never play the fool again.</p>
+            </div>
+            <div type="poem">
+               <head>One whoſe choiſe was either to be Hanged, or married.</head>
+               <l>LO here's the Bride, and there's the Tree,</l>
+               <l>Take which of theſe beſt liketh thee.</l>
+               <l>The choiſe is bad on either part,</l>
+               <l>The Womans worſt; drive on the Cart.</l>
+            </div>
+            <div type="dialogue">
+               <head>Dick of the Country his woing of Jone of the Milk pail.</head>
+               <sp>
+                  <speaker>Dick.</speaker>
+                  <p>MY pretty Chicken how doeſt thou? how fares thy body? Didſt not think me almoſt loſt?</p>
+               </sp>
+               <sp>
+                  <speaker>Jone.</speaker>
+                  <p>I gave thee for dead in good faith love, and was in the humour to marry another man.</p>
+               </sp>
+               <sp>
+                  <speaker>Dick.</speaker>
+                  <p>Sure thou waſt not, thou doeſt but jeſt I trow.</p>
+               </sp>
+               <sp>
+                  <speaker>Jone.</speaker>
+                  <p>Truly I was, and could you blame me, <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s it not a torture think you for a woman to ſtay <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>even years without a husband.</p>
+               </sp>
+               <sp>
+                  <speaker>Dick.</speaker>
+                  <p>Me thinks my browes begin to bud al<g ref="char:EOLhyphen"/>ready, they are very knotty; haſt thou grafted a<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y thing there? I ſuſpect it ſhrewdly. How <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>omes your belly ſo big?</p>
+               </sp>
+               <sp>
+                  <pb facs="tcp:61248:8"/>
+                  <speaker>Jone.</speaker>
+                  <p>Its nothing but a Timpanie, I am troubled with.</p>
+               </sp>
+               <sp>
+                  <speaker>Dick.</speaker>
+                  <p>Come you are a W<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ore, ile have you before a <hi>Juſtice.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Jone.</speaker>
+                  <p>Spare me, I pray thee gentle <hi>Dick,</hi> and hearken to my counſel a little: ſince thou art a Cuckold (as I do not deny it) chuſe whe<g ref="char:EOLhyphen"/>ther thou wilt wear thy hor<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> on thy <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>re-head, for all men to ſee, or put them in th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> pocket, and let no man ſee them.</p>
+               </sp>
+               <sp>
+                  <speaker>Dick.</speaker>
+                  <p>Why then I am a Cuckold it ſeems: have not I travelled well, and to good purpoſe? but do ſo no more, and all is forgotten.</p>
+               </sp>
+               <sp>
+                  <speaker>Jone.</speaker>
+                  <p>It is ſo, if you ſtay at home to kéep me warm, but if you leave me, have at your head the<g ref="char:cmbAbbrStroke">̄</g>.</p>
+               </sp>
+            </div>
+            <div type="poem">
+               <head>The Praiſe, and Diſpraiſe of Women.</head>
+               <l>WOmen, the wo of Men, cauſe of Mans fall,</l>
+               <l>You whom Philoſophers terms Monſters all;</l>
+               <l>I love your Sexe, even from my heart and ſoul,</l>
+               <l>From my affections, which do both controul.</l>
+               <l>And I would ſpend the lives of fifty men,</l>
+               <l>If poſſible, to praiſe you with my pen,</l>
+               <l>And paint your worth; but you your ſelves do know,</l>
+               <l>To paint your ſelves better then I can ſhow:</l>
+               <l>But if my praiſes may your favour win,</l>
+               <l>Ile ſet you forth, and thus I will begin.</l>
+               <l>O you are kinde, and kinder far then man,</l>
+               <l>And equalize your kindneſs, no man can.</l>
+               <l>O you are fair, let me that fair unſay;</l>
+               <pb facs="tcp:61248:9"/>
+               <l>So's a bright night, compar'd with a ſtormy day.</l>
+               <l>Some ſay you have no vertue, but they lye,</l>
+               <l>For you prove conſtant in unconſtancy.</l>
+               <l>Why you are every thing; Mans whole delight,</l>
+               <l>I ſpeak for Day; let them that know for Night.</l>
+            </div>
+            <div type="dialogue">
+               <head>The merry ſimple woing and winning of Jone of the Cream <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ot, by a Country Farmer.</head>
+               <sp>
+                  <speaker>Farm.</speaker>
+                  <p>NAy ſtay, ſwéet Miſtris <hi>Jone,</hi> here's none but one friend (as they ſay) de<g ref="char:EOLhyphen"/>ſires to ſpeak a cold word or two with you; how do you véel your ſelf this froſtie morning?</p>
+               </sp>
+               <sp>
+                  <speaker>Jone.</speaker>
+                  <p>What have you to do to ask, I pray you? I am a cold.</p>
+               </sp>
+               <sp>
+                  <speaker>Farm.</speaker>
+                  <p>It ſéems you are hot good Mrs. <hi>Jone.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Jone.</speaker>
+                  <p>You lie though, I am as cold as ice: feel elſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Farm.</speaker>
+                  <p>Nay you ha cooled my courage <hi>Jone, I</hi> am paſt, <hi>I</hi> ha done feeling with you.</p>
+               </sp>
+               <sp>
+                  <speaker>Jone.</speaker>
+                  <p>Done with me, <hi>I</hi> do defie you ſo <hi>I</hi> do, to ſay you ha done with me.</p>
+               </sp>
+               <sp>
+                  <speaker>Farm.</speaker>
+                  <p>O you miſtake <hi>Jone, I</hi> mean not as you mean: no, bring but that Dog that wil ſay that <hi>I</hi> ever ſtruck him, or any Cat in the town that will ſwear on a Book, that <hi>I</hi> have ſo much as ſet fire on their tailes.</p>
+               </sp>
+               <sp>
+                  <speaker>Jone.</speaker>
+                  <p>Do you love me then <hi>John?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Farm.</speaker>
+                  <p>Love you, what need you queſtion that, <hi>I</hi> ſweat as ice, burning in love: well we wil be <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </p>
+               </sp>
+               <sp>
+                  <pb facs="tcp:61248:9"/>
+                  <speaker>Jone.</speaker>
+                  <p>No haſte <hi>John</hi> to hang true volk, ſoft fire makes ſweet <hi>Malt:</hi> 
+                     <q>
+                        <l>Yet John cheer up thy better Leg before,</l>
+                        <l>This is a deed is once done, and no more.</l>
+                     </q>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Iohn.</speaker>
+                  <q>
+                     <l>And then 'tis done for ever, as they ſay,</l>
+                     <l>For each man hath his hour, each dog his day.</l>
+                  </q>
+                  <p>Ile get my leather dublet new forbuſht, and a pair of wiſps to ſwaddle my legs, for we mu<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> dance on that day ſure, and who can dance in Boots?</p>
+               </sp>
+               <sp>
+                  <speaker>Jon.</speaker>
+                  <p>Even as you liſt good <hi>John,</hi> I am all yours, as they ſay.</p>
+                  <q>
+                     <l>Thus can Country Swain-lings wo,</l>
+                     <l>And expreſs as hot their deſire;</l>
+                     <l>Live to love, and love to prove,</l>
+                     <l>Height and heat of <hi>Cupids</hi> fire.</l>
+                     <l>And a Silibub they'l make,</l>
+                     <l>While th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ir Lovers ſue and ſeek</l>
+                     <l>For their love; and do pertake,</l>
+                     <l>Of the bliſs that all do ſeek.</l>
+                  </q>
+               </sp>
+            </div>
+            <div type="song">
+               <head>A May Day Song.</head>
+               <l>COme ſit we under yonder tree,</l>
+               <l>Where merry as the Maids we'll be;</l>
+               <l>For to ſpin out the thrid of Sands,</l>
+               <l>Playing at Queſtions and Commands.</l>
+               <l>Or tell what ſtrange tricks love can do,</l>
+               <l>By quickly making one of two.</l>
+               <l>Next we will act how lovers woe,</l>
+               <l>And ſigh and kiſs, as Lovers do;</l>
+               <pb facs="tcp:61248:10"/>
+               <l>And talk of Brides, and who ſhall make,</l>
+               <l>That Wedding Smock<g ref="char:punc">▪</g> that Bridall Cake:</l>
+               <l>What Poeſies for our Wedding Rings,</l>
+               <l>What Gloves we'l give, and Ribonings:</l>
+               <l>Thus having talkt, we'l next commend,</l>
+               <l>A Kiſs or two, and ſo we'l end.</l>
+            </div>
+            <div type="poem">
+               <head>To preſent a pair of Gloves.</head>
+               <l>SWeet daign to draw theſe on thy fair white hands</l>
+               <l>And when you wear them think my being ſtands</l>
+               <l>Solely at your appointment. Would that Love,</l>
+               <l>(By his great power) would change me to a Glove:</l>
+               <l>Your fair hand then ſhould ever more be kiſt,</l>
+               <l>And I would ever dwell about your wriſt.</l>
+            </div>
+            <div type="dialogue">
+               <head>An amorous Complement between a Young Man, and a beautiful Damzel.</head>
+               <sp>
+                  <speaker>Gent.</speaker>
+                  <p>SWéet Ladie, being wounded by your beautie, I acknowledge it a mercie if you kill me not.</p>
+               </sp>
+               <sp>
+                  <speaker>Maid,</speaker>
+                  <p>Sir, though I am not guilty of offence, yet rather then I will be accounted a murthe<g ref="char:EOLhyphen"/>rer, I will ſtudie to preſerve ſo ſweet a model as your ſelf.</p>
+               </sp>
+               <sp>
+                  <speaker>Gent.</speaker>
+                  <p>Faireſt then I tel you, I muſt love you.</p>
+               </sp>
+               <sp>
+                  <speaker>Maid.</speaker>
+                  <p>I ſee no neceſſitie that I ſhould love you, yet I confeſs you are a proper man.</p>
+               </sp>
+               <sp>
+                  <speaker>Gent.</speaker>
+                  <p>Prithee do not mock me, do but look in my heart, where you ſhall ſee what you can<g ref="char:EOLhyphen"/>not deſpiſe; there Love hath made you a throne
+<pb facs="tcp:61248:10"/> to ſit and rule, all my thoughts obeying and ho<g ref="char:EOLhyphen"/>nouring you as their Queen.</p>
+               </sp>
+               <sp>
+                  <speaker>Maid.</speaker>
+                  <p>But who can ſee this heart you boaſt of?</p>
+               </sp>
+               <sp>
+                  <speaker>Gent.</speaker>
+                  <p>Alas it's eaſie for your eies to pierce into, but your frowns make it ſeem cold: But make it yours, and you ſhall ſee it ſpring, and and pay you in a full harveſt of content: but mi<g ref="char:EOLhyphen"/>ſtake not, I ſay my heart is cold, not my love.</p>
+               </sp>
+               <sp>
+                  <speaker>Maid.</speaker>
+                  <p>And yet your love is from your heart I warrant.</p>
+               </sp>
+               <sp>
+                  <speaker>Gent.</speaker>
+                  <p>I ſay my heart is cold, but yet my heart is fervent ſtill, beſides my heart is not my own but yours, you have it; and while you have it, if you keep it not warm in your boſome, how can it but be cold?</p>
+               </sp>
+               <sp>
+                  <speaker>Maid.</speaker>
+                  <p>Well Sir, notwithſtanding your rhe<g ref="char:EOLhyphen"/>thorick, I ſhall without any art at all give you a final anſwer; Your ſute is hopeleſs: And ſo farewel.</p>
+               </sp>
+            </div>
+            <div type="sonnet">
+               <head>The Young Mans Sonnet.</head>
+               <l>IS ſhe not wondrous fair? But I do ſee,</l>
+               <l>She is too much too fair, too ſweet for me.</l>
+               <l>Juſt as the Sun me thinks, I ſee her face,</l>
+               <l>Which I muſt gaze upon, but not embrace.</l>
+               <l>So ſure 'tis heavens pleaſure ſhe ſhould be ſent,</l>
+               <l>As pure to heaven again, as ſhe was lent.</l>
+               <l>And bids us we would hope for bliſs,</l>
+               <l>Not to prophane her with a mortal kiſs.</l>
+               <l>Al<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> how cold my Love doth grow, how hot;</l>
+               <pb facs="tcp:61248:11"/>
+               <l>O how I love her, how I love her not.</l>
+               <l>So doth my Ague Love torment by turnes,</l>
+               <l>As now it freez's, now again it burnes.</l>
+            </div>
+            <div type="dialogue">
+               <head>Coridon and Phill<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>da, the Shepheard and the Shepheardeſs.</head>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>SHepheard why do you follow me thus?</p>
+               </sp>
+               <sp>
+                  <speaker>Cor.</speaker>
+                  <p>How can I but follow ſweet when my heart is with you.</p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>With me, tell me then where and how I ſhall reſtore it.</p>
+               </sp>
+               <sp>
+                  <speaker>Cor.</speaker>
+                  <p>It hangs upon your eies and being there ſcorcht with diſdain<g ref="char:punc">▪</g> it flies for eaſe to your Ro<g ref="char:EOLhyphen"/>ſie lips, but being beaten thence alſo by your harſh denials, fain would it come here for har<g ref="char:EOLhyphen"/>bour; for pittie then (fair Nimph) receive it, and if you can, teach it the hardneſs of your own.</p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>Well then if my heart be ſo hard as you make it, it glads me that its ſtrong enough to be a fence to my honour.</p>
+               </sp>
+               <sp>
+                  <speaker>Cor.</speaker>
+                  <p>What the ſheep to be guarded, when there's no Woll neer?</p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>Can the ſheep he ſafe when there is a Dog of prey within, I cannot cheriſh in my breaſt, the man that would wrong my chaſtitie.</p>
+               </sp>
+               <sp>
+                  <speaker>Cor.</speaker>
+                  <p>Then cheriſh me, who never attempted to caſt the leaſt ſpot on your white innocence.</p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>The more fool you, perhaps if you had, it needed not to have come to this.</p>
+               </sp>
+               <sp>
+                  <speaker>Cor.</speaker>
+                  <p>Yes, you may remember, although I <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </p>
+               </sp>
+               <sp>
+                  <pb facs="tcp:61248:11"/>
+                  <speaker>Phil.</speaker>
+                  <p>Well Shepheard, look you never on me more, for I cannot love at all; or if at all, not you: let this ſuffice you.</p>
+               </sp>
+               <sp>
+                  <speaker>Cor.</speaker>
+                  <p>O this diſtracts me more: but ſince my preſence offends you, <hi>I</hi> muſt obey: but when <hi>I</hi> am dead the Martir of your beautie, if <hi>I</hi> thought you would ſhed one poor tear on my untimely grave, and ſay <hi>I</hi> was unfortunate, to love where <hi>I</hi> might not be loved again, my aſhes would find reſt: And farewel the faireſt, but yet the cruel<g ref="char:EOLhyphen"/>leſt Shepheardeſs alive.</p>
+               </sp>
+            </div>
+            <div type="dialogue">
+               <head>The delicate woing between Oliver and Rebecca.</head>
+               <sp>
+                  <speaker>Oliv.</speaker>
+                  <p>THou art a brave wench <hi>Rebecca,</hi> come kiſs me: wilt thou be a Ladie?</p>
+               </sp>
+               <sp>
+                  <speaker>Rebec.</speaker>
+                  <p>Sir, <hi>I</hi> have no ſuch ambition.</p>
+               </sp>
+               <sp>
+                  <speaker>Oliv.</speaker>
+                  <p>Ile buy thee a Parrat to morrow and a Monkey, here take this Ring.</p>
+               </sp>
+               <sp>
+                  <speaker>Rebec.</speaker>
+                  <p>Pray keep it, and let me tell you my minde.</p>
+               </sp>
+               <sp>
+                  <speaker>Oliv.</speaker>
+                  <p>And ile tell thee then, <hi>I</hi> know thou lo<g ref="char:EOLhyphen"/>veſt me; and prithee tell me plainly, when ſhall we matrimonie it, <hi>I</hi> know thou doteſt on my good parts, ſpeak, doſt not? prithee be not baſhful.</p>
+               </sp>
+               <sp>
+                  <speaker>Rebec.</speaker>
+                  <p>Then know I do not love you.</p>
+               </sp>
+               <sp>
+                  <speaker>Oliv.</speaker>
+                  <p>Then I have loſt all my labour.</p>
+               </sp>
+               <sp>
+                  <speaker>Rebec.</speaker>
+                  <p>I queſtion not but it will appear ſo, for <hi>I</hi> muſt tell you the truth; <hi>I</hi> cannot love you: and let this ſuffice you.</p>
+               </sp>
+            </div>
+            <div type="song">
+               <pb facs="tcp:61248:12"/>
+               <head>This Song in her praiſe.</head>
+               <l>THeſe Eys which ſet my fancies all on fire,</l>
+               <l>Theſe criſped Hairs which held my heart in chains;</l>
+               <l>That dainty Hand that conquers my deſire</l>
+               <l>That Wit which of my heart doth hold the reines.</l>
+               <l>O Eyes, that pierce our eyes without remorſe,</l>
+               <l>O Heart, of worth to wear a royal crown,</l>
+               <l>O Head, that conquers more then <hi>Caeſars</hi> force,</l>
+               <l>O Wit, that turns the world even upſide down:</l>
+               <l>Then Love be judge, what heart can thee withſtand;</l>
+               <l>Such Eys, ſuch Hair, ſuch Wit, and ſuch a Hand.</l>
+            </div>
+            <div type="letter">
+               <head>A Letter from a Home ſpun Lover.</head>
+               <p>DEareſt Duckling, be it known unto you, and to all men; that I have piſt bloud thrée daies and three nights ſince I laſt ſaw you, and received that unwomanly anſwer from you: blinde <hi>Cupid</hi> forgive you, for I am utterly un<g ref="char:EOLhyphen"/>done by you.</p>
+            </div>
+            <div type="dialogue">
+               <head>Here followes their woing.</head>
+               <sp>
+                  <speaker>Clow.</speaker>
+                  <p>
+                     <hi>O Jug,</hi> how do <hi>I</hi> love thee?</p>
+               </sp>
+               <sp>
+                  <speaker>Jug.</speaker>
+                  <p>Nay, thou knoweſt beſt, but <hi>I</hi> fear <hi>I</hi> ſhall never die with loving you.</p>
+               </sp>
+               <sp>
+                  <speaker>Clow.</speaker>
+                  <p>No <hi>Jug,</hi> but I warrant thou wouldſt if thou hadſt but a bit of me.</p>
+               </sp>
+               <sp>
+                  <speaker>Jug.</speaker>
+                  <p>Pray why ſhould you think ſo? did you e<g ref="char:EOLhyphen"/>ver ſee me caſt a ſheeps eie at you? or did my noſe bléed in your companie? <hi>And as ſhe ſpake it bled.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Clow.</speaker>
+                  <p>How now <hi>Jug,</hi> who's in love now?</p>
+               </sp>
+               <sp>
+                  <speaker>Jug.</speaker>
+                  <p>Not I upon my honeſtie, however you <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </p>
+               </sp>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="table_of_contents">
+            <pb facs="tcp:61248:12"/>
+            <head>A Table.</head>
+            <list>
+               <head>In the Second Part.</head>
+               <item>1 A paſtorall Song.</item>
+               <item>2 Patient Griſſel.</item>
+               <item>3 A Song between truth and ignorance.</item>
+               <item>4 Judith and Holofernes.</item>
+               <item>5 In praiſe of the Engliſh Roſe.</item>
+            </list>
+            <list>
+               <head>In the Third Part.</head>
+               <item>1 A Maidens choiſe twixt age and youth.</item>
+               <item>2 As I came from VValſingham.</item>
+               <item>3 The winning of Cales.</item>
+               <item>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Of Edward the third and a Counteſs.</item>
+               <item>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> The Spaniſh Ladies Love.</item>
+               <item>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> A farewell to love.</item>
+               <item>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> The Lover by his gifts thinketh to con<g ref="char:EOLhyphen"/>quer Chaſtity.</item>
+               <item>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> The womans anſwer.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
